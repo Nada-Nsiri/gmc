@@ -18,6 +18,7 @@
 .ui.cards > .card > .content > .header {
   height: 48px;
   overflow: hidden;
+
   margin-bottom: 5px;
 }
 .ui.cards > .card > .content > .description {
@@ -91,3 +92,6 @@
   font-size: 18px;
   margin-left: 0;
 }
+.a{display: flex;
+flex-direction: column;
+width: 250px;}
